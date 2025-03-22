@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI School - Reimagining Education</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <header>
+        <h1>From Chalkboards to Code</h1>
+        <p>Reimagining Old Schools with AI</p>
+    </header>
+    
+    <section class="intro">
+        <h2>Welcome to the AI School</h2>
+        <p>An innovative approach that merges artificial intelligence with traditional education to enhance learning experiences.</p>
+    </section>
+    
+    <section class="features">
+        <div class="feature-card">
+            <h3>Personalized Learning</h3>
+            <p>AI adapts lessons to each student’s needs.</p>
+        </div>
+        <div class="feature-card">
+            <h3>Real-time Feedback</h3>
+            <p>Instant insights to improve understanding.</p>
+        </div>
+        <div class="feature-card">
+            <h3>AI Tutors</h3>
+            <p>Intelligent tutoring systems for better guidance.</p>
+        </div>
+    </section>
+    
+    <footer>
+        <p>Created by Malak Al-Leithy, Salma Al-Husseini, Judi Fathy, Romisaa Zohar, and Sarah Al-Sakka</p>
+    </footer>
+</body>
+</html>
