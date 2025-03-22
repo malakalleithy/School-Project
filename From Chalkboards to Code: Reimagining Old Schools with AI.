@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>From Chalkboards to Code</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <header>
+        <h1>From Chalkboards to Code</h1>
+        <p>Reimagining Old Schools with AI</p>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#features">Features</a>
+            <a href="#team">Team</a>
+        </nav>
+    </header>
+    
+    <section id="about" class="fade-in">
+        <h2>Introduction</h2>
+        <p>Welcome to our presentation on the AI School, an innovative approach to education that combines artificial intelligence with traditional teaching methods. The goal of this school is to equip students with essential future skills and transform how we engage with education.</p>
+    </section>
+    
+    <section id="features" class="fade-in">
+        <h2>AI School Features</h2>
+        <ul>
+            <li>Personalized Learning</li>
+            <li>Real-Time Feedback</li>
+            <li>Intelligent Tutoring Systems</li>
+            <li>Parental Engagement in AI Education</li>
+        </ul>
+    </section>
+    
+    <section id="team" class="fade-in">
+        <h2>Meet the Team</h2>
+        <p>Malak Al-Leithy, Salma Al-Husseini, Judi Fathy, Romisaa Zohar, and Sarah Al-Sakka</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 AI School Project</p>
+    </footer>
+</body>
+</html>
